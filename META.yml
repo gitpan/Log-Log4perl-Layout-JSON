@@ -1,0 +1,28 @@
+---
+abstract: 'Layout a log message as a JSON hash, including MDC data'
+author:
+  - 'Tim Bunce <Tim.Bunce@pobox.com>'
+build_requires:
+  Test::Compile: '0'
+  Test::More: '0.98'
+  Test::Most: '0'
+  Test::Pod: '0'
+configure_requires:
+  ExtUtils::MakeMaker: '6.30'
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 5.019, CPAN::Meta::Converter version 2.141520'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: '1.4'
+name: Log-Log4perl-Layout-JSON
+requires:
+  Carp: '0'
+  Class::Tiny: '0'
+  JSON::MaybeXS: '0'
+  Log::Log4perl: '0'
+resources:
+  bugtracker: https://github.com/timbunce/Log-Log4perl-Layout-JSON/issues
+  homepage: https://github.com/timbunce/Log-Log4perl-Layout-JSON
+  repository: https://github.com/timbunce/Log-Log4perl-Layout-JSON.git
+version: '0.001001'
