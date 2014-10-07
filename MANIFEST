@@ -13,4 +13,5 @@ lib/Log/Log4perl/Layout/JSON.pm
 t/00-compile.t
 t/10-basic.t
 t/50-context.t
+t/60-max-length.t
 t/release-pod-syntax.t
