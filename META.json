@@ -4,7 +4,7 @@
       "Tim Bunce <Tim.Bunce@pobox.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.019, CPAN::Meta::Converter version 2.141520",
+   "generated_by" : "Dist::Zilla version 5.022, CPAN::Meta::Converter version 2.142690",
    "license" : [
       "perl_5"
    ],
@@ -16,7 +16,7 @@
    "prereqs" : {
       "configure" : {
          "requires" : {
-            "ExtUtils::MakeMaker" : "6.30"
+            "ExtUtils::MakeMaker" : "0"
          }
       },
       "develop" : {
@@ -53,6 +53,6 @@
          "web" : "https://github.com/timbunce/Log-Log4perl-Layout-JSON"
       }
    },
-   "version" : "0.002001"
+   "version" : "0.002002"
 }
 
