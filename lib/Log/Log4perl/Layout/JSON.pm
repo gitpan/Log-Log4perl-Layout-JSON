@@ -1,5 +1,5 @@
 package Log::Log4perl::Layout::JSON;
-$Log::Log4perl::Layout::JSON::VERSION = '0.002002';
+$Log::Log4perl::Layout::JSON::VERSION = '0.002003';
 
 
 use 5.008;
@@ -218,7 +218,7 @@ sub render {
         }
     }
 
-    return $self->prefix . $json;
+    return $self->prefix . $json . "\n";
 }
 
 1;
@@ -235,7 +235,7 @@ Log::Log4perl::Layout::JSON
 
 =head1 VERSION
 
-version 0.002002
+version 0.002003
 
 =head1 SYNOPSIS
 

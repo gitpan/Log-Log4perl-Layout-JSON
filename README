@@ -2,7 +2,7 @@ NAME
     Log::Log4perl::Layout::JSON
 
 VERSION
-    version 0.002002
+    version 0.002003
 
 SYNOPSIS
     Example configuration:

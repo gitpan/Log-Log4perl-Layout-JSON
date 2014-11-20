@@ -25,4 +25,4 @@ resources:
   bugtracker: https://github.com/timbunce/Log-Log4perl-Layout-JSON/issues
   homepage: https://github.com/timbunce/Log-Log4perl-Layout-JSON
   repository: https://github.com/timbunce/Log-Log4perl-Layout-JSON.git
-version: '0.002002'
+version: '0.002003'
